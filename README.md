@@ -8,8 +8,5 @@ To run the program,
 
 The following are some of the screenshots from the game:
 
-![Output Screenshots-1](https://user-images.githubusercontent.com/38180831/66917358-dd1dd500-f03a-11e9-953b-c1a4fe9961ed.png)
-
 ![Output Screenshots-0](https://user-images.githubusercontent.com/38180831/66917404-f161d200-f03a-11e9-87e7-5b3d705ecdea.png)
-
-
+![Output Screenshots-1](https://user-images.githubusercontent.com/38180831/66917358-dd1dd500-f03a-11e9-953b-c1a4fe9961ed.png)
