@@ -7,6 +7,9 @@ To run the program,
 4. Use the same directory every time to maintain the player history.
 
 The following are some of the screenshots from the game:
-![Screenshot 1](/Output Screenshots-1.png)
-![Screenshot 1](/Output Screenshots-0.png)
+
+![Output Screenshots-1](https://user-images.githubusercontent.com/38180831/66917358-dd1dd500-f03a-11e9-953b-c1a4fe9961ed.png)
+
+![Output Screenshots-0](https://user-images.githubusercontent.com/38180831/66917404-f161d200-f03a-11e9-87e7-5b3d705ecdea.png)
+
 
