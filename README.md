@@ -1,2 +1,7 @@
 # TicTacToe
-Tic-Tac-Toe game with Single-player and Multi-player modes in Turbo C++. Computer always wins or settles in a draw in Single-player mode. Applied File concepts to store and manipulate player history. Graphic-rich interface. Complete code written by me as a hobby-cum-project after high school. 
+To run the program,
+
+1. Download Turbo C++
+2. Make sure the version supports graphics.
+3. Run the file tictac.cpp
+4. Enjoy!
